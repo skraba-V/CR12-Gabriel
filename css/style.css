@@ -1,0 +1,194 @@
+* {
+  max-width: 100%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.bbc {
+  background-color: white;
+}
+
+.bbt {
+  padding-bottom: 3rem;
+}
+
+.nsl {
+  padding-bottom: 2rem;
+}
+
+.lit {
+  background-color: rgba(160, 255, 8, 0.377);
+}
+
+.zul {
+  background-color: #ffbb00;
+}
+
+.nsl2 {
+  padding-top: 2rem;
+}
+
+.caption {
+  background-image: url("../pictures/sunrise.jpeg");
+  width: 100% auto;
+  height: 40rem;
+  max-width: 100%;
+  z-index: 1;
+  background-repeat: no-repeat;
+  background-size: 100% 50rem;
+  background-position: center;
+  color: #f9fd05;
+}
+
+.caption h1 {
+  text-transform: uppercase;
+  font-size: 3.8rem;
+  font-weight: 700;
+  letter-spacing: .3rem;
+  text-shadow: .1rem .1rem .8rem black;
+  font-family: 'Permanent Marker', cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.heading {
+  font-size: 1.9rem;
+  font-weight: 700;
+  margin-block: 2rem;
+}
+
+.boox {
+  width: 400px;
+  height: 200px;
+}
+
+.im-size {
+  width: 400px;
+  height: 200px;
+  border-radius: 20px;
+  border: solid 1px rgba(241, 0, 0, 0);
+  -webkit-box-shadow: 0.1rem 0.1rem 0.8rem #ffbb00;
+          box-shadow: 0.1rem 0.1rem 0.8rem #ffbb00;
+  padding: 0.2rem;
+  background-size: cover;
+}
+
+.eddt, .eddt:hover {
+  color: #c27920;
+  text-decoration: none;
+}
+
+.dit {
+  color: #b37b36;
+}
+
+.ditd {
+  color: black;
+}
+
+.dimgboox {
+  width: 300px;
+  height: 300px;
+}
+
+.dimg {
+  width: 500px;
+  height: 300px;
+  border-radius: 50px;
+  -webkit-box-shadow: 0.1rem 0.1rem 0.8rem #ffbb00;
+          box-shadow: 0.1rem 0.1rem 0.8rem #ffbb00;
+  padding: 0.2rem;
+  background-size: cover;
+}
+
+.ditimg {
+  width: 500px;
+  height: 300px;
+  border-radius: 10px;
+  -webkit-box-shadow: 0.1rem 0.1rem 0.8rem #ffbb00;
+          box-shadow: 0.1rem 0.1rem 0.8rem #ffbb00;
+  padding: 0.2rem;
+  background-size: cover;
+}
+
+.button {
+  background-color: blue;
+  border: none;
+  color: bisque;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.button2 {
+  background-color: red;
+}
+
+.sizes {
+  background-color: #ffbb00;
+  border-radius: 30px;
+}
+
+#map {
+  height: 30rem;
+}
+
+.powe {
+  font-size: .8rem;
+  font-weight: 20;
+  text-shadow: 0.1rem 0.1rem 0.8rem red;
+  color: white;
+  position: absolute;
+  top: 55%;
+  left: 68%;
+  margin-right: -50%;
+  -webkit-transform: translate(50%, 50%);
+          transform: translate(50%, 50%);
+}
+
+.hhr {
+  background-color: #0a0803;
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
+footer {
+  background-color: #252525;
+  color: white;
+  padding: 2rem 0 2rem;
+  margin-top: 1rem;
+  text-decoration: none;
+}
+
+footer a {
+  display: table;
+  color: white;
+  text-decoration: none;
+}
+
+footer .fab {
+  width: 4rem;
+  height: 4rem;
+  font-size: 1.6rem;
+  margin: 1.2rem .5rem 0 0;
+  border: solid #38372d;
+  padding: 1rem;
+  border-radius: 50%;
+  color: red;
+}
+
+hr.socket {
+  width: 100%;
+  border-top: 0.2rem solid #4b4939;
+  margin-top: 3rem;
+}
+/*# sourceMappingURL=style.css.map */
